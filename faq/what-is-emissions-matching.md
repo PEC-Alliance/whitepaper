@@ -1,10 +1,10 @@
-# What is Carbon Matching?
+# What is Emissions Matching?
 
-The PEC platform adopts an innovative approach to carbon accounting known as carbon matching or impact-based carbon accounting. This method determines the carbon emissions based on the impact approach detailed previously. This method also follows the guidelines EmissionsFirst Partnership, which proposes to update the protocol with a new scope 2 emissions calculation approach considering the impact of location and temporality as key factors to achieve grid decarbonization.
+The PEC registry enables an innovative approach to carbon accounting known as carbon matching or impact-based carbon accounting. This method determines the carbon emissions based on the impact approach detailed previously. This method also follows the guidelines EmissionsFirst Partnership, which proposes to update the protocol with a new scope 2 emissions calculation approach considering the impact of location and temporality as key factors to achieve grid decarbonization.
 
 Carbon matching involves matching the induced emissions of a load with the avoided emissions of a renewable energy project. This is done ideally hourly, considering the location and time of generation and consumption. The net emissions are then calculated as the difference between the induced emissions of the load and the avoided emissions of the renewable energy project.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,8 +14,6 @@ The key steps in this process are as follows:
 2. **Calculate Avoided Emissions:** similarly, based on the renewable project's generation data and the corresponding LME data.
 3. **Perform Carbon Matching:** the induced emissions of the load and the avoided emissions of the renewable energy project are matched, ideally hourly or within the analyzed period.
 4. **Calculate Net Emissions:** The net emissions for the load are calculated by summing the net emissions for all hours or periods analyzed. This provides a measure of the total emissions impact of the load's energy consumption, considering the emissions avoided through purchasing renewable energy.
-
-This approach to carbon accounting provides a more accurate and meaningful measure of the emissions impact of energy consumption and renewable energy procurement. It allows for quantifying the emissions reductions achieved using renewable energy and provides a basis for the creation and trading of Power Emissions Certificates (PECs).
 
 Under the impact-based approach, the timing and location of generation or consumption are critical. The precision of the carbon balance will depend on the data available regarding when and where the grid electricity is consumed, and the renewable energy generated and injected into the grid.
 

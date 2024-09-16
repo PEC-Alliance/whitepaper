@@ -30,7 +30,7 @@ The graphs below show a typical generation profile for a solar plant.&#x20;
 Locational Marginal Emissions (LME) data shows a bimodal distribution with periods of low LME values. These are hours when renewables are on the margin due to curtailment.&#x20;
 
 {% hint style="info" %}
-[What are Power Grid Marginal Emissions?](../introduction/what-are-power-grid-marginal-emissions.md)
+[What are Power Grid Marginal Emissions?](../faq/what-are-power-grid-marginal-emissions.md)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Timeseries of Hourly LME Values</p></figcaption></figure>

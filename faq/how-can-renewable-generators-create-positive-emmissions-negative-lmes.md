@@ -10,17 +10,17 @@ In some instances, renewable projects like wind and solar can lead to negative L
 
 Let's looks at a simple example using three generators and three loads on a triangular grid:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 As mentioned earlier, LMPs and LMEs are determined by the generation redispatch required to maintain supply-demand balance and manage congestion. In the above graph, we can see that there is a binding constraint on Line 2 (RED) which leads to a situation where grid operators need to rely on multiple generators to set the LMPs. Due to this binding constraint, **both** Gen 1 and Gen 2 (BULE) are used to set the marginal unit.
 
 Now Let's see what happens when we increase generation production at Gen 3; which is non-margin generator in this grid  and presumably the renewable generator (remember, Gen 1 and Gen 2 are currently on the margin):
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 We can see that Gen 3's injection of 1MW of incremental power directly flows to alleviate the congestion on Line 2. However, now the grid operator has to redisbatch again in this moment to maintain balance. See below:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The least-cost solution for redispatch in response to an incremental MW from Gen 3 is ramping down Gen 2 by 2 MW (since it is the highest-cost generator @ $10), and ramping up Gen 1 by 1 MW. This maintains balance on the grid via the GREEN and PURPLE flows, but Line 2 remains congested and Gen 3 (the lowest-cost generator) **is not** on the margin.
 
@@ -28,7 +28,7 @@ The least-cost solution for redispatch in response to an incremental MW from Gen
 
 **Final Clean View and Conclusion:**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Because multiple units are simultaneously being ramped up and down, you can end up with LMPs that exceed the offer points of any single generator. LMPs and LMEs extend beyond offer curves provided by individual generators. In the example, the 1 MW injection at Gen 3 reduces system cost by $15, despite that being higher than the costs of any individual generator. So, the LMP at the Gen 3 node is $15/MWh. The same thing happens with LMEs, where the LME at Gen 3 is 1 ton/MWh despite that being higher than the emissions rate of the most emitting power plant.
 

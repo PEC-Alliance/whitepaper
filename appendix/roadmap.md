@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Roadmap
 
 The roadmap for the PEC registry outlines the key milestones in the platform's development, testing, and roll-out.

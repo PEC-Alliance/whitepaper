@@ -37,7 +37,7 @@ By combining the generation and emissions datasets, we can calculate hourly avoi
 
 The battery operator must neutralize the induced emissions and power consumption from the grid. Below is the sum of energy and emissions for each hour.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Power Emissions Proof (PEP)
 
@@ -47,7 +47,7 @@ Once the operator retires the required PECs to match hourly consumption and indu
 
 Now that the charging impact has been neutralized and documented, the methodology is applied to the discharge activity to issue PECs.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### REC Split
 
@@ -63,7 +63,7 @@ The charts below show how the split REC\_ID across two hours sums to 1 MWh.
 
 Since all charging activity is neutralized along with a published PEP, all discharged energy can be used to create PECs. This process is the same as renewable generation except there is no directly issued RECs.&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Conclusion
 

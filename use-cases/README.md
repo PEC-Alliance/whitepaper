@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Use Cases
 
 This document provides a comprehensive understanding of the potential applications of PECs, a groundbreaking tool in the realm of renewable energy procurement and carbon accounting.

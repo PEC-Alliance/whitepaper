@@ -23,15 +23,15 @@ The graphs below show a typical generation profile.&#x20;
 Locational Marginal Emissions (LME) data shows a tail with periods of low LME values. These are hours when renewables are on the margin due to curtailment.&#x20;
 
 {% hint style="info" %}
-[What are Power Grid Marginal Emissions?](../introduction/what-are-power-grid-marginal-emissions.md)
+[What are Power Grid Marginal Emissions?](../faq/what-are-power-grid-marginal-emissions.md)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption><p>LME distribution with values less than 0 in Red</p></figcaption></figure>
 
 Force LME values less than 0 to zero. This avoids positive emissions for energy generation.
 
-{% content-ref url="../appendix/how-can-renewable-generators-create-positive-emmissions-negative-lmes.md" %}
-[how-can-renewable-generators-create-positive-emmissions-negative-lmes.md](../appendix/how-can-renewable-generators-create-positive-emmissions-negative-lmes.md)
+{% content-ref url="../faq/how-can-renewable-generators-create-positive-emmissions-negative-lmes.md" %}
+[how-can-renewable-generators-create-positive-emmissions-negative-lmes.md](../faq/how-can-renewable-generators-create-positive-emmissions-negative-lmes.md)
 {% endcontent-ref %}
 
 <figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption><p>Adjusted LME Values</p></figcaption></figure>

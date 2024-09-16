@@ -1,4 +1,8 @@
-# What are Power Emissions Certificates?
+---
+hidden: true
+---
+
+# Copy of What are Power Emissions Certificates?
 
 Power Emissions Certificates (PECs) represent a novel approach to quantifying and valuing the environmental impact of renewable energy generation. Unlike traditional Renewable Energy Certificates (RECs) that focus solely on the renewable attribute of electricity generation, PECs account for the actual greenhouse gas emissions avoided due to the operation of renewable energy projects.
 
@@ -6,7 +10,7 @@ Each PEC represents the environmental attributes of one megawatt-hour (MWh) of r
 
 The creation of PECs involves the conversion of traditional RECs into a new form of a certificate that captures the emissions displacement achieved by renewable energy projects. This conversion process involves the retirement of the original RECs to avoid double counting environmental benefits and issuing new PECs based on the calculated avoided emissions.
 
-<figure><img src="../.gitbook/assets/0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0.png" alt=""><figcaption></figcaption></figure>
 
 PECs provide a more accurate and meaningful measure of the environmental impact of renewable energy generation. They enable renewable energy producers to certify the environmental benefits of their energy production and provide consumers with a reliable means of reducing the climate impact of their energy consumption. By assigning value to the avoided emissions, PECs also create a market incentive for renewable energy projects that achieve higher emissions reductions.
 
@@ -34,7 +38,7 @@ With the conversion to PECs, the creation of a global registry becomes not only 
 
 To avoid double counting and ensure the unique value of PECs, the RECs associated with renewable energy generation will be retired in the PEC registry before issuing PECs. This approach would prevent both instruments from claiming the same environmental benefits and ensure that each certificate represents a distinct attribute of renewable energy generation.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 | Feature             | Traditional RECs                                                                                                                                             | PECs                                                                                                                                                              |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,4 +47,4 @@ To avoid double counting and ensure the unique value of PECs, the RECs associate
 | Issuance            | Layers of centralized bureaucracy, regional restrictions, and compliance processes lead to delays                                                            | Projects receive PECs automatically upon verification through public blockchain traceability.                                                                     |
 | Transparency        | RECs are transacted on private registries with no interoperability or public ledger access, meaning the risk of double counting via other registries is high | All transactions are publicly listed on our marketplace for full transparency, and digital certificates are issued upon retirement with full proof of provenance. |
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
