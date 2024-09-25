@@ -1,5 +1,7 @@
 # Introduction
 
+<figure><img src=".gitbook/assets/PEC whitepaper coverpage.png" alt=""><figcaption></figcaption></figure>
+
 Amidst the escalating global focus on sustainability, the need for data-driven procurement in the energy sector has reached a critical point. In response, the PEC Alliance has introduced the Power Emissions Certificate (PEC) registry and methodology. This registry, which promotes transparency, accuracy, and impact, significantly improves the existing Energy Attribute Certificates (EACs) system, ushering in a new era of more impactful climate action.
 
 As adopting carbon-free energy (CFE) gains momentum, a new challenge emerges: ensuring that new CFE projects significantly reduce carbon emissions. While traditional EACs have been effective, they don't fully incentivize and reward the most impactful projects. This is where PECs come in, offering a solution to this crucial problem.
